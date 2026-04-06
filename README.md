@@ -154,4 +154,3 @@ MIT License - Free to use for personal and commercial projects.
 
 ---
 
-*This project was created as a portfolio piece for entry-level support engineer positions.*
